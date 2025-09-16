@@ -15,10 +15,10 @@ Here are a few of the technologies and skills I’m working with:
 - **Others**: Git, N8N
 
 ## 🚀 Projects & Achievements
-- 🏠 **Rental Scoring SaaS (2025)** – Automated the analysis of rental applications: OCR extraction, document validation, scoring algorithm, and cloud deployment (Next.js + AWS).
-- 🧠 **Multilayer Perceptron** – Built a neural network from scratch to deepen understanding of forward/backpropagation and gradient descent.
-- 🐍 **Learn to Slither** – Reinforcement learning project where an agent learns to play Slither.io using policy optimization.
-- 🌍 **GeoAI Hack Challenge** – Finalist (2025) – Developed an AI model to detect locust breeding zones from satellite imagery.
+- **Rental Scoring SaaS (2025)** – Automated the analysis of rental applications: OCR extraction, document validation, scoring algorithm, and cloud deployment (Next.js + AWS).
+- **Multilayer Perceptron** – Built a neural network from scratch to deepen understanding of forward/backpropagation and gradient descent.
+- **Learn to Slither** – Reinforcement learning project where an agent learns to play Slither.io using policy optimization.
+- **GeoAI Hack Challenge** – Finalist (2025) – Developed an AI model to detect locust breeding zones from satellite imagery.
 
 ## 🎯 My Current Goals 🔭
 - Improve my skills in quantitative modeling and ML.
