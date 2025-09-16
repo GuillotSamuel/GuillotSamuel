@@ -25,7 +25,7 @@ Here are a few of the technologies and skills I’m working with:
 - Keep challenging myself through hackathons and real-world ML projects.
 
 ## 🌐 Let's Connect! 📫
-Feel free to reach out to me via my [LinkedIn Profile](https://www.linkedin.com/in/samuel-guillot-b0188868/) or by [email](samuelguillot75@gmail.com).
+Feel free to reach out to me via my [LinkedIn Profile](https://www.linkedin.com/in/samuel-guillot-b0188868/) or with my email <samuelguillot75@gmail.com>.
 
 ## 😄 Fun Fact
 When I’m not coding, you’ll probably find me either tackling a mountain on my bike or hiking through the trails, pretending I’m not getting lost. If I’m not outdoors, I’m usually glued to my computer, writing code, debugging, or daydreaming about the next big project to dive into—always looking for new ways to make the world more efficient with data and AI! 🚀
